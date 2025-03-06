@@ -1,0 +1,65 @@
+[
+    {"soru": "Krallıkta veba salgını başladı, karantina ilan edilsin mi?",
+        "evet": {"Sağlık": 30, "Ekonomi": -20, "Halk": -15},
+        "hayır": {"Sağlık": -40, "Halk": 15}
+    },
+    {
+        "soru": "Komşu ülke saldırı hazırlığında, orduyu güçlendirelim mi?",
+        "evet": {"Askeri": 25, "Ekonomi": -20},
+        "hayır": {"Askeri": -35, "Halk": 10}
+    },
+    {"soru": "Vergileri artırıp hazineyi dolduralım mı?", 
+     "evet": {"Ekonomi": 30, "Halk": -25}, 
+     "hayır": {"Ekonomi": -20, "Halk": 20}
+    },
+
+    {"soru": "Tarım yatırımlarını artırıp gıda üretimini yükseltelim mi?", 
+     "evet": {"Sağlık": 20, "Ekonomi": -10, "Halk": 5}, 
+     "hayır": {"Halk": -20}
+    },
+
+    {"soru": "Yeni bir kale inşa edelim mi?", 
+     "evet": {"Askeri": 30, "Ekonomi": -25, "Halk": -10}, 
+     "hayır": {"Ekonomi": 15}
+     },
+
+    {"soru": "Halk festivali düzenleyelim mi?", 
+     "evet": {"Halk": 25, "Ekonomi": -20}, 
+     "hayır": {"Halk": -10}},
+
+    {"soru": "Bilim insanlarına destek verelim mi?", 
+     "evet": {"Sağlık": 20, "Ekonomi": -15, "Halk": 10}, 
+     "hayır": {"Halk": -15}},
+
+    {"soru": "Deniz ticaret filosu kurulsun mu?", 
+     "evet": {"Ekonomi": 40, "Askeri": -10}, 
+     "hayır": {"Ekonomi": -10}},
+
+    {"soru": "Kraliyet ordusuna yeni komutanlar atayalım mı?", 
+     "evet": {"Askeri": 30, "Halk": -10}, 
+     "hayır": {"Askeri": -20}},
+
+    {"soru": "Halk arasında zorunlu askerlik getirilsin mi?", 
+     "evet": {"Askeri": 40, "Halk": -30}, 
+     "hayır": {"Askeri": -15}},
+
+    {"soru": "Saray için yeni bir bahçe yapalım mı?", 
+     "evet": {"Halk": 15, "Ekonomi": -10}, 
+     "hayır": {"Halk": -5}},
+
+    {"soru": "Yabancı tüccarları ülkeye davet edelim mi?", 
+     "evet": {"Ekonomi": 30, "Halk": 10}, 
+     "hayır": {"Ekonomi": -15}},
+
+    {"soru": "Kraliyet hastaneleri inşa edelim mi?", 
+     "evet": {"Sağlık": 40, "Ekonomi": -30}, 
+     "hayır": {"Sağlık": -20}},
+
+    {"soru": "Yeni bir yasa çıkararak suç oranını azaltalım mı?", 
+     "evet": {"Halk": 20, "Askeri": -10}, 
+     "hayır": {"Halk": -20}},
+
+    {"soru": "Tarımsal üretimi artırmak için köylülere destek verelim mi?", 
+     "evet": {"Halk": 25, "Ekonomi": -20}, 
+     "hayır": {"Halk": -10, "Sağlık": -10}}
+]
